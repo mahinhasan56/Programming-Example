@@ -1,0 +1,4 @@
+Array after left rotating:
+25 36 49 64 81 100 1 4 8 16 
+Array after right rotating:
+1 4 8 16 25 36 49 64 81 100 
